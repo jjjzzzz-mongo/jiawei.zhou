@@ -1,5 +1,7 @@
 name: Tennis Court Availability Monitor
 
+# 24/7 monitoring for St Johns Park tennis courts
+
 on:
   schedule:
     # Run every 30 minutes from 6 AM to 11 PM UK time (5 AM to 10 PM UTC)
